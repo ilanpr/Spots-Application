@@ -1,0 +1,16 @@
+{
+  "name": "spots-to-go",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env server.mjs",
+    "preview": "node preview.mjs"
+  },
+  "dependencies": {
+    "mysql2": "^3.15.0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
