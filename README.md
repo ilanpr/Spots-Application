@@ -19,7 +19,7 @@ Butuh Node.js 22.13 atau lebih baru dan MySQL 8. Buat database, siapkan akun apl
 
 ```sql
 CREATE DATABASE spots_to_go CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-CREATE USER 'spots_app'@'127.0.0.1' IDENTIFIED BY 'password-lokal-yang-kuat';
+CREATE USER 'spots_app'@'127.0.0.1' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON spots_to_go.* TO 'spots_app'@'127.0.0.1';
 ```
 
