@@ -2,6 +2,15 @@
 
 Spots adalah tempat berbagi rekomendasi yang berangkat dari pengalaman orang lain. Isinya bisa warung makan, kafe, tempat singgah, atau tujuan perjalanan. Setiap cerita punya foto atau video dan titik lokasi, jadi orang lain bisa melihat tempatnya sebelum memutuskan untuk datang.
 
+## Tampilan aplikasi
+
+![Landing page Spots](docs/images/landing-desktop.jpg)
+
+<p align="center">
+  <img src="docs/images/feed-mobile.jpg" alt="Feed Spots pada ponsel" width="300">
+  <img src="docs/images/map-mobile.jpg" alt="Peta Spots pada ponsel" width="300">
+</p>
+
 ## Yang bisa dilakukan
 
 - Melihat tempat dalam radius 20 km dari lokasi saat ini. Jika lokasi belum diizinkan, feed menampilkan tempat yang populer.
