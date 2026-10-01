@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 82" fill="none" role="img" aria-label="Spots">
+  <rect x="8" y="11" width="58" height="58" rx="19" fill="#E9EDFF"/>
+  <path d="M51 25c-5-5-17-6-23 1-7 8-1 14 9 15 10 1 13 8 5 14-5 4-13 3-18-1" stroke="#4056BD" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="51" cy="25" r="6" fill="#F27B8E" stroke="#E9EDFF" stroke-width="2"/>
+  <circle cx="24" cy="54" r="6" fill="#F4C65F" stroke="#E9EDFF" stroke-width="2"/>
+  <text x="78" y="59" fill="#192553" font-family="Nunito, Arial Rounded MT Bold, Arial, sans-serif" font-size="60" font-weight="900" letter-spacing="-5">spots</text>
+  <path d="m245 8 3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8Z" fill="#F4C65F"/>
+  <circle cx="252" cy="60" r="6" fill="#F27B8E"/>
+</svg>
